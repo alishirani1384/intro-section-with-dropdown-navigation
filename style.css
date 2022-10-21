@@ -68,7 +68,7 @@ nav{
     justify-content: space-between;
     max-width: 1440px;
     margin: 0 auto;
-    padding-inline: 2rem;
+    padding-inline: 3rem;
 }
 .nav-left{
     display: flex;
@@ -127,7 +127,7 @@ main{
 }
 @media screen and (max-width:800px) {
     .nav-container{
-        margin-inline: 1rem;
+        padding-inline: 1rem;
     }
     .mobile-menu{
         display: flex;
